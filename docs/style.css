@@ -25,7 +25,7 @@
 .top-info{
     padding-top: 115px;
     flex-grow: 1;
-    background-image: url(/картинки/[SW.BAND]\ 16.png);
+    background-image: url(/картинки/16.png);
     background-repeat: no-repeat;
     background-position: right center;
     background-size: 44%;
@@ -348,7 +348,7 @@ hr{
     padding-top: 26px;
 }
 .top-baner{
-    background-image: url(картинки/[SW.BAND]\ 2.svg);
+    background-image: url(картинки/2.svg);
     background-repeat: no-repeat;
     background-position: center;
     margin-top:25px;
